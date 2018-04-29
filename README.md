@@ -1,7 +1,7 @@
 Eliminate floating treetops with the power of GraviTree!
 ONLY trees. ALL tree types. Even branches!
 
- ![embed.png](https://s27.postimg.org/fu9lxeb1v/embed.png)
+ ![embed.png](https://s27.postimg.cc/fu9lxeb1v/embed.png)
 
 This plugin works very well for Minecraft 1.10, and some earlier versions are available for older versions of Minecraft. However, it will not be updated for future Minecraft versions because I've finally retired from Minecraft development (5 years of plugins!), and I'm moving on to develop indie games. :) You can follow me in my adventures here: 
 
